@@ -2,13 +2,15 @@
 
 > **Read-only archive of released versions of justoverclock/first-visit-indexpage.** Not for installation: use [Packagist](https://packagist.org/packages/justoverclock/first-visit-indexpage) or the [upstream repository](https://github.com/justoverclockl/first-visit-indexpage).
 
-**0** versions archived · Latest: [`0.1.2`](https://github.com/flarchive/justoverclock-first-visit-indexpage/tree/archive/v0.1.2) · License: `MIT` · Flarum: `^1.0`
+**3** versions archived · Latest: [`0.1.2`](https://github.com/flarchive/justoverclock-first-visit-indexpage/tree/archive/v0.1.2) · License: `MIT` · Flarum: `^1.0`
 
 ## Archived Versions
 
 | Version | Released | Flarum | Source |
 |---|---|---|---|
-| — | — | — | — |
+| `0.1.0` | 2021-07-13 | `^1.0` | [Browse](https://github.com/flarchive/justoverclock-first-visit-indexpage/tree/archive/v0.1.0) |
+| `0.1.1` | 2021-07-13 | `^1.0` | [Browse](https://github.com/flarchive/justoverclock-first-visit-indexpage/tree/archive/v0.1.1) |
+| `0.1.2` | 2021-07-14 | `^1.0` | [Browse](https://github.com/flarchive/justoverclock-first-visit-indexpage/tree/archive/v0.1.2) |
 
 Catalog entry: [packages/justoverclock-first-visit-indexpage.json](https://github.com/flarchive/archive-index/blob/main/packages/justoverclock-first-visit-indexpage.json)
 
